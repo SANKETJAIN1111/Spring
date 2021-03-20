@@ -1,0 +1,421 @@
+ 2  getip
+    3  getipaddress
+    4  getipconfig
+    5  $gcc area.c
+    6  ./a.out area.c
+    7  ./a.out helloworld.c
+    8  ip config
+    9  ipconfig
+   10  ip link
+   11  iplink
+   12  ps -o -f
+   13  ps
+   18  ps -n -f l|less
+   19  ps -o
+   20  ps FF -l|less
+   21  cd ,/a,out
+   22  cd ./a.out
+   23  gcc helloworld.c
+   24  top
+   25  ps -e -o pid,cmd,stat,class,ni,rtprio,vsz,rsz,psr,|less
+   26  cd ./a.out
+   27  ps -c|wc -l
+   28  ps -o
+   29  ps -em -o pid,ppid,lwp,cmd,cmd,stat,vsz,rsz
+   30  gcc -o sj.c
+   31  gcc -o ./sj.c
+   32  proc/cpuinfo|less
+   35  cat/proc/meminfo/grep/anon
+   36  cat/proc/meminfo
+   37  cat/proc/sys/vm/min_free_kbytes
+   38  cat/proc/sys/vm
+   39  ls -l
+   40  ps -o
+   41  ps -p
+   42  ps grp
+   43  top
+   44  top
+   45  /Volumes/VirtualBox/VirtualBox_Uninstall.tool ; exit;
+   46  /Volumes/VirtualBox\ 3/VirtualBox_Uninstall.tool ; exit;
+   47  su
+   48  sudo su -
+   51  /Volumes/VirtualBox\ 3/VirtualBox_Uninstall.tool ; exit;
+   52  su
+   53  sudo su -
+   54  sudo su
+   55  su
+   56  gcc -v sj.cpp
+   57  gcc -v ./sj.cpp
+   58  gcc -v *sj.cpp
+   59  vi sj.cpp
+   60  cd user
+   61  cd desktop
+   62  bash -c 'clear; cd "/Users/SANKET/Projects/demo/demo/bin/Debug"; "/Library/Frameworks/Mono.framework/Versions/5.12.0/bin/mono32"  --debug --debugger-agent=transport=dt_socket,address=127.0.0.1:65498  "/Users/SANKET/Projects/demo/demo/bin/Debug/demo.exe" ; echo $? > /var/folders/z5/yzb28kmj409c73gf1ft39g2w0000gn/T/tmp390ab22a.tmp; echo; read -p "Press any key to continue..." -n1; exit'; exit
+   63  /Users/SANKET/Documents/cpp
+   64  g++ 
+   65  /Users/SANKET/sj
+   66  /Users/SANKET/sj
+   67  cd /Users/SANKET/sj
+   68  ls
+   69  g++ -o a.out sj.cpp
+   70  ./a.out
+   71  gcc -o a.out sj.cpp
+   72  gcc -o a.out s
+   73  gcc -o a.out sj
+   74  /Users/SANKET/sj
+   75  /Users/SANKET/Documents/cpp
+   76  g++ -o x cpp.cpp
+   77  g++ -o x sj.cpp
+   78  g++ -o x sj.cpp
+   79  g++ -o c LListADT.cpp
+   80  /Users/SANKET/Desktop/hema/LListADT.cpp
+   81  g++ -o b /Users/SANKET/Desktop/hema/estTree.cpp 
+   82  g++ -o b /Users/SANKET/Desktop/hema/estTree.cpp 
+   83  ./b
+   89  clear
+   90  g++ -o b /Users/SANKET/Desktop/hema/estTree.cpp 
+   91  ./b
+   92  vi estTree
+   93  vi estTree.cpp
+   99  g++ -o b /Users/SANKET/Desktop/hema/estTree.cpp 
+  100  ./b
+  101  clear
+  114  g++ -o b /Users/SANKET/Desktop/hema/estTree.cpp 
+  115  ./b
+  116  whois install
+  117  which gprof
+  118  g++ -pg -o b /Users/SANKET/Desktop/hema/estTree.cpp 
+  119  ./b
+  120  gprof ./b>hi.txt
+  121  gprof ./b
+  122  valgrind ./b
+  123  sudo apt install gprof
+  124  su sudo apt install gprof
+  125  sanket
+  129  su sudo -apt install gprof
+  130  sudo su -
+  131  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  132  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  133  brew doctor
+  134  brew install caskroom/cask/brew-cask
+  135  brew cask search name
+  136  brew cask install name
+  141  su sudo apt install gprof
+  142  su sudo apt install gprof
+  143  clear
+  153  su sudo -
+  154  su sudo -
+  155  su sudo
+  156  su sudo
+  157  su sudo
+  158  su sudo
+  159  g++ -o b /Users/SANKET/Desktop/DS\ dat/vector.cpp
+  160  ,/b
+  161  ,/b
+  162  ./b
+  163  ./b
+  164  g++ -o b /Users/SANKET/Desktop/DS\ dat/sll.cpp
+  165  ./b
+  166  g++ -o c /Users/SANKET/Desktop/hema/estTree.cpp 
+  167  ./c
+  168  g++ -o c /Users/SANKET/Desktop/hema/estTree.cpp 
+  169  ./c
+  170  g++ -o c /Users/SANKET/Desktop/hema/estTree.cpp 
+  171  ./c
+  172  g++ -o c /Users/SANKET/Desktop/hema/estTree.cpp 
+  173  g++ -o c /Users/SANKET/Desktop/hema/vector.cpp 
+  174  g++ -o d /Users/SANKET/Desktop/DS\ dat/merge.cpp
+  175  g++ -o d /Users/SANKET/Desktop/DS\ dat/vector.cpp
+  176  ./c
+  177  g++ -o d /Users/SANKET/Desktop/DS\ dat/vector.cpp
+  178  ./d
+  179  g++ -o d /Users/SANKET/Desktop/DS dat/sll.cpp
+  180  g++ -o d /Users/SANKET/Desktop/DS\ dat/sll.cpp 
+  181  ./d
+  182  sudo su
+  183  mysql
+  184  sudo su
+  185  mysql -u root -p
+  186  cd home
+  187  cd /home
+  188  mysql -u root -p
+  189  sudo su
+  190  export PATH = ${path}:/usr/local/mysql/bin
+  191  /usr/local/mysql/bin
+  192  mysql -u root -p
+  193  open -t .bash_profile
+  194  ls -al
+  195  mysql 
+  196  profile
+  197  clear
+  198  cd /usr/local/mysql/bin/; ls
+  199  ./mysql -u root
+  200  cd /usr/local/mysql/bin/; ls
+  201  ./mysql -u root
+  202  ./mysql -u root
+  207  sudo ./mysql -u root
+  208  sudo su
+  213  cd /usr/local/mysql/bin/; ls
+  214  ./mysql -u root -p
+  215  sudo
+  216  sudo su
+  217  mysql -u root -p
+  218  cd /usr/local/mysql/bin/; ls
+  219  mysql -u root -p
+  220  ./mysql -u root -p
+  221  exit
+  222  cd /usr/local/mysql/bin/; ls
+  223  cd /usr/local/mysql/bin/;
+  224  ./mysql -u root -p
+  225  ip link
+  226  ip link;
+  227  if config 
+  228  ifconfig |more
+  229  iwconfig
+  230  ip addr
+  231  ip link 
+  232  ifconfig 
+  233  ipconfig
+  234  ifconfig
+  235  exit
+  236  sudo su
+  237  mongodb
+  238  mongodb;
+  241  sudo apt-get install -y mongodb-server
+  242  sudo apt-get install -y mongodb-server
+  243  apt-get install -y mongodb-server
+  244  brew install mongodb 
+  245  mongo
+  246  mongodb
+  247  mkdir -p /data/db
+  248  sudo chown -R `id sanket` /data/db
+  249  s` /data/db
+  252  sudo mkdir -p /data/db
+  253  sudo mongod
+  254  ifconfig 
+  255  ifconfig |more
+  256  ifconfig |more
+  257  mongo
+  258  exit
+  259  mongo
+  260  mongo
+  261  uninstall mongodb
+  262  sudo uninstall mongodb
+  263  sudo apt-get uninstall mongodb-server
+  264  mongod
+  265  sudo mkdir -p /data/db
+  266  show databases
+  269  use bank.insert({name:"sanket",salary:12200});
+  270  use bank({name:"sanket",salary:12200});
+  271  update brew
+  272  brew update
+  273  brew install mongodb
+  274  brew install mongodb -- devel
+  275  mkdir -p /data/db
+  276  mongod
+  277  /usr/bin/mongod
+  278  /mongod
+  279  mongod --dbpath
+  280  ls
+  281  /Applications
+  282  /bin
+  286  brew update
+  287  mongo
+  290  show Databases;
+  291  mongo
+  292  brew doctor
+  293  brew update
+  294  sudo mkdir -p /data/db
+  295  sudo mongod
+  296  mongo
+  297  mysql;
+  302  sudo mysql -u root -p
+  303  cd /usr/local/mysql/bin/;
+  304  sudo mysql -u root -p
+  305  sudo mysql -u root -p
+  306  cd /usr/local/mysql/bin/;
+  307  ./mysql -u root -p 
+  308  sudo 
+  309  cd /usr/local/mysql/bin/
+  310  ./mysql -u root -p 
+  311  sudo mongod
+  312  exit
+  313  sudo mongod
+  314  show databases;
+  315  sudo mkdir -p /data/db
+  316  sudo mongod
+  317  mongo
+  318  /Users/SANKET/Desktop/JUGAD\ /Untitled\ Document\ 2 ; exit;
+  319  node -v
+  320  node
+  321  ./mysql -u root -p 
+  322  cd /usr/local/mysql/bin/
+  323  ./mysql -u root -p 
+  324  nodejs -v
+  327  Nodejs -v
+  328  node -v
+  329  Nodejs -v
+  330  node -v
+  331  node 
+  332  cd /Users/SANKET/Desktop/NodeJs;
+  333  node -v
+  334  node CoreModules.js
+  335  xcode-select -install
+  336  cd /Users/SANKET/Downloads/Day/ 5_JSF 
+  337  cd /Users/SANKET/Downloads 
+  338  nodejs -v
+  339  node -v
+  340  node expressDemo.js
+  341  ./mysql -u root -p 
+  342  cd /usr/local/mysql/bin/
+  349  ./mysql -u root -p 
+  350  cd /usr/local/mysql/bin/
+  351  mysql -u root -p 
+  352  ./mysql -u root -p 
+  353  mysql -u root -p 
+  354  mysql -u root -p mysql
+  355  mysql
+  356  ./mysql -u root -p 
+  357  cd AngularCrud
+  358  cd AngularCrud
+  359  ng serve
+  360  ng bulid -prod --base -href /emp/
+  365  ng build -prod --base -href app/emp/
+  366  ng serve
+  367  ng delete -prod --base -href app/emp/
+  368  ng delete -prod --base -href /emp/
+  369  ng delete --base -href /emp/
+  370  ng serve
+  371  ng serve --open
+  372  cd .. 
+  373  ng new AngularCrud
+  374  ng new AngularCrud
+  375  cd AngularCrud
+  376  ng g c employees/listemployee
+  377  ng g c employees/createemployee
+  378  ng g c employees/deleteemployee
+  379  ng g c employees/updateemployee
+  380  ng serve --open
+  381  ng serve --open
+  382  cd /Desktop/javascript/Day5;
+  383  cd /user/Desktop/javascript/Day5;
+  384  cd /user/Desktop/javascript/
+  385  cd /user/Desktop/javascript
+  386  cd user
+  387  cd Desktop
+  388  cd javascript
+  389  cd Day5
+  394  Node expressRest.js
+  395  ng new demo
+  396  cd demo
+  397  ng serve -o
+  398  npm install mysql
+  399  mysql 
+  400  mysql
+  401  ng serve -o
+  402  ng serve -o
+  403  cd..
+  404  cd ..
+  405  angu
+  406  ng new angu
+  407  cd angu
+  410  ng serve -o
+  411  cd /usr/local/mysql/bin;
+  412  ./mysql -u root -p 
+  413  cd ..
+  414  ./mysql -u root -p 
+  415  ./mysql -u root -p 
+  422  cd ..
+  423  ./mysql -u root -p 
+  424  cd user
+  425  cd user
+  426  cd mysql
+  427  cd bin
+  428  ./mysql -u root -p 
+  429  ./mysql -u root -p 
+  430  mysql -u root -p 
+  431  /mysql -u root -p 
+(Password- nahi hai)
+  432  cd /user/mysql/bin;
+  433  cd /usr/local/mysql/bin;
+  437  ./mysql -u root -p 
+  446  Node expressRest.js
+  447  cd Download
+  448  cd Downloads
+  449  node ExpressRest.js
+  450  node ExpressRest.js
+  451  cd ..
+  452  cd Desktop
+  453  cd javascript
+  454  cd Day5
+  455  node expressRest.js
+  456  node expressRest.js
+  462  cd Downloads
+  463  node expressRest.js
+  464  node expressRest.js
+  465  cd angularCrud
+  466  ng serve -o
+  470  node expressRest.js
+  471  cd ang
+  472  ng serve -o
+  473  cd Desktop
+  474  ng serve -o
+  475  node expressRest.js
+  476  cd Downloads
+  477  cd JAVA3
+  478  javac EmpDemoApp.java
+  479  java EmpDemoApp menu.text
+  480  java EmpDemoApp menu.text
+  481  javac EmpDemoApp.java
+  482  java EmpDemoApp menu.txt
+  483  javac EmpDemoApp.java
+  484  cd /Downloads/JAVA3
+  485  cd /Downloads/JAVA3;
+  486  cd ./Downloads/JAVA3;
+  487  javac EmpDemoApp.java
+  488  java EmpDemoApp menu.txt
+  489  javac EmpDemoApp.java
+  490  java EmpDemoApp menu.txt
+  491  javac EmpDemoApp.java
+  492  java EmpDemoApp menu.txt
+  493  javac TypecastingDemo.java
+  494  javac TypecastingDemo.java
+  495  cd eclipse-workspace
+  496  cd Demo
+  497  javac HelloWorld.java
+  498  cd src
+  499  javac HelloWorld.java
+  500  java HelloWorld
+/usr/local/Cellar/mysql/8.0.17:
+
+=============================
+SANKET-JAIN:bin SANKET$ ./mysql -u root -p 
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 9
+Server version: 8.0.17 Homebrew
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> create database mydb
+    -> ;
+Query OK, 1 row affected (0.14 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mydb               |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+5 rows in set (0.15 sec)
+
